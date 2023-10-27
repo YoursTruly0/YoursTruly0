@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Throughout Love and Happiness, I Alone Am the Lonely One.</h3>
+<h3 align="center">Iam a software engineering Student, open to learn anyhting. </h3>
 
 - 🔭 I’m currently working on **myself**
 
