@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C++,python,HTML,C#**
 
-- 👯 I’m looking to collaborate on **software**
+- 👯 I’m looking to collaborate on **Website/App Developments**
 
-- 💬 Ask me about **life**
+- 💬 Ask me about **any technology aspects**
 
 - 📫 How to reach me **ah8445687@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ah8445687@gmail.com </h3>
 <p align="left">
 </p>
 
